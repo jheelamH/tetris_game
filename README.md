@@ -34,13 +34,6 @@ It supports:
 - Line clearing
 - Game over detection
 
----
-
-## 👀 Preview
-![Tetris Preview](preview.png)  
-*(Replace with an actual screenshot of your game)*
-
----
 
 ## ✨ Features
 - 🕹 Fully playable in the browser
